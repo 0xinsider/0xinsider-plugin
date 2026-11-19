@@ -1,0 +1,14 @@
+{
+  "name": "0xinsider",
+  "displayName": "0xinsider",
+  "version": "1.0.0",
+  "description": "Polymarket sports and esports market analytics: trader grades, games, large trades, and sharp-money flow. Read-only. Each user connects their own 0xinsider account.",
+  "author": {
+    "name": "Trevor Lasn"
+  },
+  "homepage": "https://0xinsider.com",
+  "repository": "https://github.com/0xinsider/0xinsider-plugin",
+  "license": "MIT",
+  "keywords": ["polymarket", "sports", "esports", "analytics", "markets", "mcp"],
+  "logo": "assets/logo.png"
+}

@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "analytics": {
+      "url": "https://api.0xinsider.com/api/v1/mcp"
+    }
+  }
+}
